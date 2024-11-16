@@ -1,0 +1,11 @@
+@import '/vendor/filament/filament/resources/css/theme.css';
+
+@config 'tailwind.config.js';
+
+.fi-sidebar {
+    @apply bg-[#9d4eff] dark:bg-[#9d4eff];
+}
+
+.fi-sidebar-group {
+    /* @apply  */
+}
